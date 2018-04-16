@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>230</x>
+      <y>0</y>
+      <w>650</w>
+      <h>630</h>
+    </coordinates>
+    <panel_attributes>
+
+--
+
+List of exisitng recipients
+
+--
+
+Recipient 1
+
+--
+
+Recipient 2
+
+--
+
+Recipient 3
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+group=1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>760</x>
+      <y>0</y>
+      <w>120</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Add Recipient
+bg=red
+group=1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>760</x>
+      <y>590</y>
+      <w>120</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Edit Details
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

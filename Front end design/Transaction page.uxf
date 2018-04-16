@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>342</x>
+      <y>54</y>
+      <w>441</w>
+      <h>243</h>
+    </coordinates>
+    <panel_attributes>Transactions 
+--
+Month in:
+Month out:
+
+
+--
+Date
+--
+Name                                                                                                +/-Amount
+--
+J Smith                                                                                                     +£50
+--
+A Jones                                                                                                     -£25
+--
+ 
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

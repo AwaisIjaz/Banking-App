@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>17</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>289</x>
+      <y>0</y>
+      <w>646</w>
+      <h>765</h>
+    </coordinates>
+    <panel_attributes>Filter page
+
+group=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>340</x>
+      <y>119</y>
+      <w>323</w>
+      <h>272</h>
+    </coordinates>
+    <panel_attributes>Select tranfer confirmation
+--
+SMS
+
+Email
+
+Neither
+halign=left
+group=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>544</x>
+      <y>204</y>
+      <w>34</w>
+      <h>34</h>
+    </coordinates>
+    <panel_attributes>
+group=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>544</x>
+      <y>255</y>
+      <w>34</w>
+      <h>34</h>
+    </coordinates>
+    <panel_attributes>
+group=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>544</x>
+      <y>306</y>
+      <w>34</w>
+      <h>34</h>
+    </coordinates>
+    <panel_attributes>
+group=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>340</x>
+      <y>442</y>
+      <w>374</w>
+      <h>187</h>
+    </coordinates>
+    <panel_attributes>Price range tickbox (£)
+--
+
+
+Amount selected: XXX
+
+0 ----------------------------------- 5000
+
+
+
+
+group=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

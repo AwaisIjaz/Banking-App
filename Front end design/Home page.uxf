@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>7</zoom_level>
+  <element>
+    <id>UMLInterface</id>
+    <coordinates>
+      <x>1295</x>
+      <y>0</y>
+      <w>56</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Interface
+--
+Operation1
+Operation2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>322</x>
+      <y>84</y>
+      <w>602</w>
+      <h>399</h>
+    </coordinates>
+    <panel_attributes>Name of Bank
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>532</x>
+      <y>147</y>
+      <w>175</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>
+Balance 
+£££
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>532</x>
+      <y>301</y>
+      <w>175</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>
+Transfer
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
